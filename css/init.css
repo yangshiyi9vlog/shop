@@ -1,0 +1,11 @@
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre,
+form, fieldset, legend, button, input, textarea, th, td { margin:0; padding:0; }
+body {color:#333;font-size:14px;font-family: '微软雅黑','宋体',Arial;}
+body, button, input, select, textarea { font:12px/1.5tahoma, arial, \5b8b\4f53; }
+ul,ol,dl{list-style-type:none;}
+li,dd{list-style-type:none;}
+a {text-decoration:none;color:#333 }
+a:hover {text-decoration: none;}
+img {border: none;}
+ins,em, b, i {font-style:normal;}
+html, body {min-width: 1000px;}
